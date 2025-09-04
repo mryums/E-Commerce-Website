@@ -73,5 +73,5 @@ klea-skincare/
 
 
 🌟 Made for creativity and clean design lovers 💖
-             by Soha 
+             by Soha & Maryam
              
