@@ -1,4 +1,4 @@
-## ✨ KLEA Skincare – Pure Care, Pure Confidence!
+![hover](https://github.com/user-attachments/assets/22e53e15-3b42-4288-b63a-0a47ac0917f3)## ✨ KLEA Skincare – Pure Care, Pure Confidence!
 
 Welcome to KLEA Skincare, a clean, aesthetic, and fully responsive skincare brand landing page project. This front-end project is designed to showcase skincare products with interactive galleries, smooth product hover effects, and a stylish customer feedback section.
 
@@ -26,8 +26,7 @@ Welcome to KLEA Skincare, a clean, aesthetic, and fully responsive skincare bran
 <img src="images/landing.png" width="70%"/>
 
 ### 🛍️ Product Section
-<img src="![lip](https://github.com/user-attachments/assets/85983476-f18a-4aa8-9cfd-6e4412e0a5f2)
-" width="70%"/>
+<img src="C:\Users\TNC\OneDrive\ドキュメント\images\hover.jpeg" width="70%"/>
 
 ### 🔄 Hover Effect
 <img src="images/hover.png" width="70%"/>
