@@ -1,4 +1,4 @@
-✨ KLEA Skincare – Pure Care, Pure Confidence!
+## ✨ KLEA Skincare – Pure Care, Pure Confidence!
 
 Welcome to KLEA Skincare, a clean, aesthetic, and fully responsive skincare brand landing page project. This front-end project is designed to showcase skincare products with interactive galleries, smooth product hover effects, and a stylish customer feedback section.
 
@@ -19,25 +19,6 @@ Welcome to KLEA Skincare, a clean, aesthetic, and fully responsive skincare bran
 
 🔗 Footer with social media icons & contact details
 
-### 🏠 Landing Page
-## 🎨 How it Looks
-
-### 🏠 Landing Page
-<img src="C:\Users\TNC\OneDrive\ドキュメント\images\login.jpeg" width="30%"/>
-
-### 🛍️ Product Section
-<img src="C:\Users\TNC\OneDrive\ドキュメント\images\hover.jpeg" width="30%"/>
-
-### 🔄 Hover Effect
-<img src="images/hover.png" width="70%"/>
-
-### 💬 Customer Feedback
-![Feedback](images/feedback.png)
-
-### 📱 Responsive Design
-![Responsive](images/responsive.png)
-
----
 
 
 ##  ⚙️ Features
@@ -94,3 +75,6 @@ klea-skincare/
 🌟 Made for creativity and clean design lovers 💖
              by Soha & Maryam
              
+
+this is the whole readme i want to add in it almost  pics in sequence 
+so adjust in it tell the new one after adding pics too
