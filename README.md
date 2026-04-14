@@ -19,6 +19,25 @@ Welcome to KLEA Skincare, a clean, aesthetic, and fully responsive skincare bran
 
 🔗 Footer with social media icons & contact details
 
+### 🏠 Landing Page
+## 🎨 How it Looks
+
+### 🏠 Landing Page
+<img src="images/landing.png" width="70%"/>
+
+### 🛍️ Product Section
+<img src="C:\Users\TNC\OneDrive\ドキュメント\OneDrive\Pictures\lip shop.jpeg" width="70%"/>
+
+### 🔄 Hover Effect
+<img src="images/hover.png" width="70%"/>
+
+### 💬 Customer Feedback
+![Feedback](images/feedback.png)
+
+### 📱 Responsive Design
+![Responsive](images/responsive.png)
+
+---
 
 
 ##  ⚙️ Features
