@@ -26,7 +26,7 @@ Welcome to KLEA Skincare, a clean, aesthetic, and fully responsive skincare bran
 <img src="images/landing.png" width="30%"/>
 
 ### 🛍️ Product Section
-<img src="C:\Users\TNC\OneDrive\ドキュメント\images\hover.jpeg" width="50%"/>
+<img src="C:\Users\TNC\OneDrive\ドキュメント\images\hover.jpeg" width="30%"/>
 
 ### 🔄 Hover Effect
 <img src="images/hover.png" width="70%"/>
