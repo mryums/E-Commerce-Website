@@ -75,6 +75,3 @@ klea-skincare/
 🌟 Made for creativity and clean design lovers 💖
              by Soha & Maryam
              
-
-this is the whole readme i want to add in it almost  pics in sequence 
-so adjust in it tell the new one after adding pics too
