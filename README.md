@@ -19,7 +19,7 @@ Welcome to KLEA Skincare, a clean, aesthetic, and fully responsive skincare bran
 
 🔗 Footer with social media icons & contact details
 
-<img width="1200" height="400" alt="image" src= "https://github.com/user-attachments/assets/91b5e739-2bd4-47d2-9b87-49fd5e6c54c9"/>
+<img width="1200" height="550" alt="image" src= "https://github.com/user-attachments/assets/91b5e739-2bd4-47d2-9b87-49fd5e6c54c9"/>
 
 
 ##  ⚙️ Features
